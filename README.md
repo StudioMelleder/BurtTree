@@ -1,10 +1,10 @@
-![icon](https://github.com/StudioMelleder/BurtTree/blob/main/burttree-icon.png?raw=true)
+![icon](https://raw.githubusercontent.com/StudioMelleder/BurtTree/refs/heads/main/burttree-icon.png)
 # BurtTree
 Fast, simple and easily extendable Behaviour Tree plugin for Godot 4.x Mono. 
 
 ## Build Behaviour Trees directly in the Godot scene tree.
 
-![example-screenshot](https://github.com/StudioMelleder/BurtTree/blob/main/tree-example.png)
+![example-screenshot](https://raw.githubusercontent.com/StudioMelleder/BurtTree/refs/heads/main/screenshots/tree-example.png)
 
 ## Installation
 Simply clone the repo to get the latest development version or download the latest release for the stable version.
