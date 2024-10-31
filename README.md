@@ -7,6 +7,8 @@ Simply clone the repo to get the latest development version or download the late
 Move the burttree folder to the addons folder in your godot project and enable the plugin in project settings.
 You might need to build the .NET project once before enabling the plugin. 
 
+## Docs
+[Getting Started](https://github.com/StudioMelleder/BurtTree/wiki/Getting-Started)
 
 ## Info
 ### Developed for Studio Melleder's in house games. Features get developed when needed in our projects.
