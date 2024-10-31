@@ -8,7 +8,7 @@ Fast, simple and easily extendable Behaviour Tree plugin for Godot 4.x Mono.
 
 ## Installation
 Simply clone the repo to get the latest development version or download the latest release for the stable version.
-Move the burttree folder to the addons folder in your godot project and enable the plugin in project settings.
+Move the burttree folder from addons to the addons folder in your godot project and enable the plugin in project settings.
 You might need to build the .NET project once before enabling the plugin. 
 
 ## Docs
