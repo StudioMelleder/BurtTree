@@ -1,3 +1,4 @@
+![icon](https://github.com/StudioMelleder/BurtTree/blob/main/burttree-icon.png?raw=true)
 # BurtTree
 Fast, simple and easily extendable Behaviour Tree plugin for Godot 4.x Mono. 
 
